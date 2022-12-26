@@ -1,0 +1,40 @@
+*,
+*:after,
+*:before {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  cursor: none;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.container{
+  width: 80%;
+  height: 100%;
+  margin: auto;
+}
+
+::selection{
+  background-color: #5c3191;
+  color: rgb(255, 255, 255);
+}
+
+::-webkit-scrollbar{
+  width: 12px;
+}
+
+::-webkit-scrollbar-thumb{
+  background-color: #fff;
+  border-radius: 20px;
+}
+
+::-webkit-scrollbar-track{
+  background:  linear-gradient(to bottom, #292256 0%, #8446cf 70%, #a871d6 100%);
+}
+
+
+
+
