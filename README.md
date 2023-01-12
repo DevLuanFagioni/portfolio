@@ -1,4 +1,4 @@
-# Porfolio pessoal
+# 😱 Porfolio pessoal
 
 Portfolio em desenvolvimento, onde irei mostrar um pouco dos meus conhecimentos em front-end, minhas skills e projetos.
 
