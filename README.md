@@ -21,7 +21,3 @@ https://devluanfagioni.github.io/portfolio
 
 Este projeto está sob a licença (MIT) - veja o arquivo [LICENSE.md](https://github.com/DevLuanFagioni/portfolio/blob/main/LICENSE) para detalhes.
 
-## 🎁 Expressões de gratidão
-
-* Conte a outras pessoas sobre este projeto 📢;
-* Convide alguém da equipe para uma cerveja 🍺;
